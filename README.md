@@ -183,6 +183,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[IP2Location.io](https://github.com/ip2location/mcp-ip2location-io)** - IP2Location.io API integration to retrieve the geolocation information for an IP address.
 - **[IPLocate](https://github.com/iplocate/mcp-server-iplocate)** - Look up IP address geolocation, network information, detect proxies and VPNs, and find abuse contact details using IPLocate.io
 - **[ilert](https://github.com/iLert/mcp-ilert)** - Interact with [ilert](https://ilert.com) through natural language.
+- **[IteraTools](https://github.com/fredpsantos33/mcp-iteratools)** ☁️ - Pay-per-use multi-tool API with MCP support: image generation (Flux), web scraping, OCR, TTS, QR codes, weather, crypto, charts, URL shortener, PDF, and 80+ more tools. x402 micropayments protocol.
 - **[JetBrains](https://github.com/JetBrains/mcp-jetbrains)** – Work on your code with JetBrains IDEs
 - **[Jetty.io](https://github.com/jettyio/mlcbakery/tree/main/mcp_server)** — Work on dataset metadata with MLCommons Croissant validation and creation.
 - **[Kagi Search](https://github.com/kagisearch/kagimcp)** - Search the web using Kagi's search API
