@@ -180,6 +180,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[InstantDB](https://github.com/instantdb/instant/tree/main/client/packages/mcp)** - Create, manage, and update applications on InstantDB, the modern Firebase.
 - **[Inspektor Gadget MCP server](https://github.com/inspektor-gadget/ig-mcp-server)** - Debug your Container and Kubernetes workloads with an AI interface powered by eBPF.
 - **[Integration App](https://github.com/integration-app/mcp-server)** - Interact with any other SaaS applications on behalf of your customers.
+- **[IteraTools](https://github.com/fredpsantos33/mcp-iteratools)** - Multi-tool API with 80+ utilities: image generation (Flux), web scraping, TTS, OCR, QR codes, charts, weather, crypto, and more. Pay-per-use via x402 micropayments.
 - **[IP2Location.io](https://github.com/ip2location/mcp-ip2location-io)** - IP2Location.io API integration to retrieve the geolocation information for an IP address.
 - **[IPLocate](https://github.com/iplocate/mcp-server-iplocate)** - Look up IP address geolocation, network information, detect proxies and VPNs, and find abuse contact details using IPLocate.io
 - **[ilert](https://github.com/iLert/mcp-ilert)** - Interact with [ilert](https://ilert.com) through natural language.
